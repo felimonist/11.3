@@ -12,7 +12,7 @@
 Задание 3.
 Access-лог Nginx logstash
 
-![slave](https://github.com/felimonist/11.3/blob/main/img/2.JPG)
+![slave](https://github.com/felimonist/11.3/blob/main/img/3.JPG)
 
 
 Задание 4.
